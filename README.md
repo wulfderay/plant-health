@@ -3,7 +3,7 @@ Publish Plant health monitoring from Arduino to Mqtt
 
 ## Arduino Code
 
-The code in my MoistureSensor project is responsible for reading the sensor data and sending it to the connected computer via serial communication. It uses a resistive moisture sensor and a DHT11 temperature and humidity sensor to collect the necessary data. Make sure to upload this code to your Arduino board and connect it via USB to the computer running this code.
+The code in my [MoistureSensor](https://github.com/wulfderay/MoistureSensor) project is responsible for reading the sensor data and sending it to the connected computer via serial communication. It uses a resistive moisture sensor and a DHT11 temperature and humidity sensor to collect the necessary data. Make sure to upload this code to your Arduino board and connect it via USB to the computer running this code.
 
 ## Python Script
 
