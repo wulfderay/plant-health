@@ -12,7 +12,7 @@ mqtt_broker = 'localhost'
 mqtt_port = 1883
 mqtt_topic = 'plant'
 username = 'mqtt_user'
-password = 'S4d13fr4'
+password = 'XXXXXXX'
 
 
 def parse_json_status(json_string):
